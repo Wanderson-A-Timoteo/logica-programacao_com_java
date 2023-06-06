@@ -2,7 +2,7 @@ package generics;
 
 import java.util.Scanner;
 
-public class Generics {
+public class Main {
 
 	public static void main(String[] args) {
 		
